@@ -53,3 +53,34 @@ Esses cursos foram importantes para reforçar meu aprendizado e me preparar melh
 </main> 
 </body>
 </html>
+
+body{
+color: white;
+background-color: black;
+font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+img{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+border: 5px solid white;
+}
+
+.center{
+    text-align: center;
+}
+h1{
+    color:blue;
+}
